@@ -1,7 +1,9 @@
 # DragonAdventure-web
 Dragon Adventureのウェブ版です
 
+ゲームをプレイする際はF11で全画面にしてからプレイしましょう
 
+https://daichi256.github.io/DragonAdventure-web
 
 # このゲームについて
 
@@ -36,6 +38,11 @@ Dragon Adventureのウェブ版です
 > このゲームは、Unity Asset Storeの無料アセットを複数使用しています。
 
 > このような素晴らしいアセットを作成し、共有してくださったクリエイターの皆様に心より感謝申し上げます。
+
+# EpicOFDecoy-windows
+Windows版のダウンロードページはこちら
+
+https://daichi256.itch.io/adventure
 
 ## ライセンス
 
