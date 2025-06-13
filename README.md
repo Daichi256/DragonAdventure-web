@@ -40,6 +40,6 @@ Dragon Adventureのウェブ版です
 ## ライセンス
 
 このゲームは Creative Commons Attribution 4.0 International (CC BY 4.0) の下で公開しています。  
-自由に使用・改変・再配布・商用利用が可能ですが、**作者（Your Name）のクレジット表記**が必要です。
+自由に使用・改変・再配布・商用利用が可能ですが、**作者（Daichi256）のクレジット表記**が必要です。
 
 詳しくは https://creativecommons.org/licenses/by/4.0/ をご覧ください。
